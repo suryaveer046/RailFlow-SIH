@@ -25,7 +25,7 @@ const nextConfig: NextConfig = {
     ],
   },
   output: 'export',
-  basePath: '/SIH_project', // <-- THIS IS THE LINE YOU NEED TO ADD
+  // basePath: '/SIH_Project', // Commented out for local development
 };
 
 export default nextConfig;
