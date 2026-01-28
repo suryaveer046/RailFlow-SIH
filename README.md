@@ -2,8 +2,3 @@ Railway Management System.
  
    
   
-  
-     
-  
- 
-  
